@@ -1,1 +1,1 @@
-# ds2002-walmart
+# walmart-hurricane-project
