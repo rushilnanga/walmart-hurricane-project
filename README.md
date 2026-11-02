@@ -9,6 +9,8 @@ The supplied data had a major issue with respect to cleaning revenue values that
 **2. ETL Trade-offs**
 > You made choices about how to standardize SKUs, handle missing timestamps, and join weather data. Pick one decision and explain: what alternative approach could you have taken, and how might it have changed your results?
 
+One decision we made was to consolidate all 4 Strawberry Pop-Tart SKUs into a single product, even through the product catalog lists POPTART-STRAW as a 6 pack and the other 3 SKUs were listed as 4 packs. Another approach would be to treat different pack sizes as different products. Using this alternative approach would have changed our result: the 4 pack group sold 2001 units during the surge week, which is less than bottled water (2240), so Pop-Tarts would have been ranked second to water instead of first. While this minute change would technically affect the ranking that would drive restocking decisions, the surge for Pop-Tarts would still be evident.
+
 **3. Pipeline Trust**
 > The Walmart CDO argued that the biggest risk is not the model — it is the pipeline. Based on your experience in this project, do you agree or disagree? What was the most fragile part of your data pipeline?
 
