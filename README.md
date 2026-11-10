@@ -19,5 +19,5 @@ One decision we made was to consolidate all 4 Strawberry Pop-Tart SKUs into a si
 
 **5. Team Collaboration**
 > How did your team divide the work? What would you do differently if you had another week? What was the most valuable skill each team member contributed?
->
-> Our team randomly assigned the work equally to ensure that everyone had the same amount to complete. If we had another week, we would spend more time on the graphs and find additional correlations that would have a meaningful impact in future scenarios. Jackson worked on the cleaning for Q1 & Q2, Rushil did the API call for weather in Q3, Luke did the join for Q4, and Derek completed Q5. We all worked together on the final slideshow, putting the information we got from the our section together to put all of the information together.
+
+Our team randomly assigned the work equally to ensure that everyone had the same amount to complete. If we had another week, we would spend more time on the graphs and find additional correlations that would have a meaningful impact in future scenarios. Jackson worked on the cleaning for Q1 & Q2, Rushil did the API call for weather in Q3, Luke did the join for Q4, and Derek completed Q5. We all worked together on the final slideshow, putting the information we got from the our section together to put all of the information together.
