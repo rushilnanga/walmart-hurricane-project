@@ -17,6 +17,8 @@ One decision we made was to consolidate all 4 Strawberry Pop-Tart SKUs into a si
 **4. Business vs. Data**
 > For Question 5 (board games), your team had to make a recommendation with imperfect data. How did you weigh statistical evidence against business risk? Would you have decided differently with more time or more data?
 
+First, we were confident that there was a surge in board game sales, but we had to further investigate the scale of that surge. After further analysis, the +250% statistic was only a peak for a couple of days, while the surge over the week leading up to landfall was +160%. While from a business perspective, there is no risk of board games expiring or losing value by sitting on a shelf for extended periods of time, our recommendation still aimed to minimize overstocking. Therefore, we recommended that Walmart’s stock increase should reflect the surge over the full week before landfall, at 2.6x. If we had more time and data, such as reliable inventory data, we could more confidently recommend stocking more than 2.6x if that data showed that inventory was completely wiped out during the surge. Additionally, data from other storms could help improve the basis of our recommendation beyond the data from one storm surge.
+
 **5. Team Collaboration**
 > How did your team divide the work? What would you do differently if you had another week? What was the most valuable skill each team member contributed?
 
