@@ -14,6 +14,8 @@ One decision we made was to consolidate all 4 Strawberry Pop-Tart SKUs into a si
 **3. Pipeline Trust**
 > The Walmart CDO argued that the biggest risk is not the model — it is the pipeline. Based on your experience in this project, do you agree or disagree? What was the most fragile part of your data pipeline?
 
+Based on our experience with the project, we would agree with the CDO because even a good analysis can produce misleading results if the underlying data is inconsistent or unreliable. The most fragile part of our pipeline was cleaning and combining data from different sources. We encountered inconsistent date formats, store IDs, category names, and duplicate SKUs, all of which had to be standardized before analysis. For example, we discovered that inventory levels dropped even for products with no recorded sales, showing that inventory data could not always be trusted to reflect purchasing behavior. These issues demonstrated that validating and cleaning the pipeline was essential to producing accurate conclusions.
+
 **4. Business vs. Data**
 > For Question 5 (board games), your team had to make a recommendation with imperfect data. How did you weigh statistical evidence against business risk? Would you have decided differently with more time or more data?
 
