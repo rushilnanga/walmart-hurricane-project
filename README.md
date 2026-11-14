@@ -1,6 +1,6 @@
 # walmart-hurricane-project
 **To run the code:**
-Open the File: Final Walmart Notebook.ipynb. Ensure that the data properly initialized and run the code question by question. Be sure to stop and review the outputs as they provide the foundation for our recommendations.
+Open the File: Final Walmart Notebook.ipynb. Ensure that the files from the data folder are properly initialized and run the code question by question. Be sure to stop and review the outputs as they provide the foundation for our recommendations.
 
 **Reflection Questions**
 
