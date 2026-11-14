@@ -1,5 +1,8 @@
 # walmart-hurricane-project
-Reflection Questions
+**To run the code:**
+Open the File: Final Walmart Notebook.ipynb. Ensure that the data properly initialized and run the code question by question. Be sure to stop and review the outputs as they provide the foundation for our recommendations.
+
+**Reflection Questions**
 
 **1. Data Quality Impact**
 > Describe a specific data quality issue you encountered in the supplied data. How did your cleaning decision change the outcome of your analysis? What would have happened if you had not caught it?
